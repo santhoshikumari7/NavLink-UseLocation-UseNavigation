@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: yellowgreen;
+  display: inline-block;
+  padding: 20px;
+  border: 2px solid black;
+}
+form label{
+  display: inline-block;
+  width: 150px;
+
+}
+form div{
+  margin: 20px;
+}
+button{
+  background-color: aqua;
+  border: 5px solid black;
+}
+nav{
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 1rem;
+
+}
